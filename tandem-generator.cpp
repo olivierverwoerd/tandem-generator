@@ -63,7 +63,7 @@ int main()
         std::cin >> num;
     }
     back();
-	for(num; num > 1; num--){
+	for(; num > 1; num--){
 		seats();
 	}
     front();
