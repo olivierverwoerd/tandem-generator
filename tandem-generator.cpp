@@ -1,4 +1,4 @@
-//A very dutch code	
+//A very dutch code	by Olivier Verwoerd
 // Example program
 #include <iostream>
 #include <string>
@@ -20,12 +20,12 @@ void front(){
     l1 += "   #";
     l2 += "       #";
     l3 += "########";
-    l4 += "   #   ####";
+    l4 += "   #  # ##";
     l5 += " #  ###  ###";
     l6 += "  ##  #   ##";
     l7 += "  ##   #  ##";
     l8 += "       ###  ###";
-    l9 += "     ####";
+    l9 += "       ##";
 }
 
 
