@@ -59,7 +59,7 @@ void back(){
 int main()
 {
     while(num < 1){
-        std::cout << "Tandem Generator\n\nHow many seats the bike?: ";
+        std::cout << "Tandem Generator by Olivier Verwoerd\n\nHow many seats the bike?: ";
         std::cin >> num;
     }
     back();
@@ -68,4 +68,5 @@ int main()
 	}
     front();
     std::cout << l0 << '\n' << l1 << '\n' << l2 << '\n' << l3 << '\n' << l4 << '\n' << l5 << '\n' << l6 << '\n' << l7 << '\n' << l8 << '\n' << l9 << '\n';
+	std::cin >> num;
 }
